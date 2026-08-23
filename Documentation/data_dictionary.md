@@ -1,4 +1,4 @@
-# ✈️ Global Aviation Industry 2010–2026
+# Global Aviation Industry 2010–2026
 
 > **30 Airlines × 17 Years of Financials | Boeing vs Airbus vs COMAC | Passenger Traffic | Global Routes | Aviation Incidents**
 
@@ -6,28 +6,28 @@ A comprehensive aviation industry dataset covering **2010–2026**, designed for
 
 ---
 
-## 📌 About the Dataset
+## About the Dataset
 
 The **Global Aviation Industry 2010–2026** dataset provides a multi-dimensional view of the global aviation industry.
 
 It combines:
 
-- ✈️ Airline financial performance
-- 🛩️ Boeing, Airbus, and COMAC aircraft orders
-- 👥 Regional passenger traffic
-- 🌍 Major global aviation routes
-- ⚠️ Major aviation incidents
-- 📈 COVID-19 impact and recovery
-- 🌏 Regional aviation trends
+- Airline financial performance
+- Boeing, Airbus, and COMAC aircraft orders
+- Regional passenger traffic
+- Major global aviation routes
+- Major aviation incidents
+- COVID-19 impact and recovery
+- Regional aviation trends
 - 🇸🇦 Middle East aviation expansion
 - 🇨🇳 COMAC C919 growth
-- 🏭 Boeing production and recovery challenges
+- Boeing production and recovery challenges
 
 The dataset covers major industry events including the **737 MAX crisis, COVID-19 aviation collapse, Saudi aviation expansion, COMAC C919 growth, and the 2024–2025 Boeing crisis**.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 This dataset can be used to analyze:
 
@@ -44,7 +44,7 @@ This dataset can be used to analyze:
 
 ---
 
-# 📂 Dataset Structure
+# Dataset Structure
 
 The project contains **5 CSV files** with approximately **2,200 rows** in total.
 
@@ -58,7 +58,7 @@ The project contains **5 CSV files** with approximately **2,200 rows** in total.
 
 ---
 
-# ✈️ Airlines Covered
+# Airlines Covered
 
 The dataset covers **30 airlines** across major global aviation markets.
 
@@ -94,27 +94,27 @@ The dataset covers **30 airlines** across major global aviation markets.
 - JAL
 - ANA
 
-### 🌏 Other Asian Airlines
+### Other Asian Airlines
 - Singapore Airlines
 - Cathay Pacific
 - Korean Air
 - IndiGo
 - AirAsia
 
-### 🌍 Middle Eastern Airlines
+### Middle Eastern Airlines
 - Emirates
 - Qatar Airways
 - Etihad
 - Saudia
 - Riyadh Air
 
-### 🌎 Latin American Airlines
+### Latin American Airlines
 - LATAM
 - Azul
 
 ---
 
-# 📊 Dataset Files
+# Dataset Files
 
 ## 1. `airline_financials.csv`
 
@@ -242,9 +242,9 @@ Contains **40 major aviation incidents and accidents** from 2010–2026.
 
 ---
 
-# 🔎 Key Industry Findings
+# Key Industry Findings
 
-## 🦠 COVID-19 Impact — 2020
+## COVID-19 Impact — 2020
 
 The dataset captures the unprecedented impact of COVID-19 on global aviation.
 
@@ -258,7 +258,7 @@ The dataset captures the unprecedented impact of COVID-19 on global aviation.
 
 ---
 
-# 🛩️ Boeing 737 MAX Crisis
+# Boeing 737 MAX Crisis
 
 The dataset captures the dramatic change in Boeing 737 family net orders.
 
@@ -273,7 +273,7 @@ In 2024, Airbus recorded approximately **1,456 A320-family net orders**, creatin
 
 ---
 
-# ⚠️ 2024–2025 Boeing & Aviation Crisis
+# 2024–2025 Boeing & Aviation Crisis
 
 Major events represented in the dataset include:
 
@@ -301,7 +301,7 @@ The majority of COMAC's orders remain concentrated in the Chinese domestic marke
 
 ---
 
-# 🌍 Middle East Aviation Growth
+# Middle East Aviation Growth
 
 The dataset highlights the rapid expansion of Middle Eastern aviation hubs.
 
@@ -315,7 +315,7 @@ The dataset highlights the rapid expansion of Middle Eastern aviation hubs.
 
 ---
 
-# 📈 Regional Recovery After COVID
+# Regional Recovery After COVID
 
 Recovery was not uniform across regions.
 
@@ -330,7 +330,7 @@ Asia Pacific experienced a slower recovery largely due to extended COVID restric
 
 ---
 
-# 🌐 Geopolitical Aviation Events
+# Geopolitical Aviation Events
 
 The dataset includes major geopolitical aviation events such as:
 
@@ -344,7 +344,7 @@ These events allow researchers to investigate the relationship between geopoliti
 
 ---
 
-# 🗃️ Data Sources
+# Data Sources
 
 The dataset combines public aviation information with modeled components.
 
@@ -362,7 +362,7 @@ The dataset combines public aviation information with modeled components.
 
 ---
 
-# 🧮 Modeled Components
+# Modeled Components
 
 Some parts of the dataset are modeled rather than directly reported for every year/month.
 
@@ -379,7 +379,7 @@ The methodology uses real-world anchor data and applies interpolation, seasonal 
 
 ---
 
-# ⚙️ Methodology
+# Methodology
 
 ## Step 1 — Airline Financials
 
@@ -455,7 +455,7 @@ Each incident is categorized as:
 
 ---
 
-# 🔬 Suggested Analysis Questions
+# Suggested Analysis Questions
 
 ## 1. Boeing Recovery
 
@@ -511,7 +511,7 @@ Each incident is categorized as:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 This dataset can be analyzed using:
 
@@ -530,7 +530,7 @@ This dataset can be analyzed using:
 
 ---
 
-# 📊 Potential Dashboard KPIs
+# Potential Dashboard KPIs
 
 A Power BI dashboard can include:
 
@@ -566,7 +566,7 @@ A Power BI dashboard can include:
 
 ---
 
-# 📌 Limitations
+# Limitations
 
 The dataset has several limitations:
 
@@ -581,11 +581,4 @@ The dataset has several limitations:
 
 ---
 
-# 🔁 Reproducibility
 
-The dataset is designed to be deterministic given the specified seed.
-
-The generation code is included in:
-
-```text
-generate_aviation.py
