@@ -1,1 +1,82 @@
+✈️ Global Aviation Industry — Business Questions
+📄 Dashboard 1 — Executive Overview
+1. Revenue Performance
+How has total airline revenue changed from 2010 to 2026, and which years experienced the largest increases or declines?
+2. Passenger Growth
+How has the number of passengers carried changed over time, and does passenger growth correspond with revenue growth?
+3. Regional Revenue
+Which regions generate the highest airline revenue, and how has their contribution changed over time?
+4. Airline Leadership
+Which 10 airlines generated the highest total revenue during the selected period?
+5. Business Model Performance
+How does airline performance differ across legacy, low-cost, and hybrid business models?
+________________________________________
+📄 Dashboard 2 — Airline Performance
+6. Airline Revenue Ranking
+Which airlines have the highest revenue, and what factors may explain their stronger financial performance?
+7. Operating Margin
+Which airlines achieved the highest operating margins, and how stable were their margins over time?
+8. COVID Impact on Airlines
+Which airlines experienced the largest revenue and operating-margin decline during 2020–2021?
+9. Fleet & Revenue
+Is there a relationship between fleet size and airline revenue?
+10. Revenue vs Passengers
+Which airlines generate relatively high revenue despite carrying fewer passengers, and what does this suggest about their pricing or business model?
+________________________________________
+📄 Dashboard 3 — Boeing vs Airbus
+11. Manufacturer Competition
+How did Boeing, Airbus, COMAC, and Embraer compare in aircraft orders from 2010–2026?
+12. Boeing 737 MAX Impact
+How significantly did Boeing's aircraft orders change during the 2019–2020 period compared with previous years?
+13. Orders vs Deliveries
+Which manufacturer converted aircraft orders into deliveries most effectively over the period?
+14. Backlog
+Which manufacturer has the largest aircraft backlog, and how has the competitive gap changed over time?
+15. Aircraft Demand
+Which aircraft families generated the highest number of orders?
+16. Narrowbody Competition
+How has the narrowbody aircraft market evolved between Boeing, Airbus, and COMAC?
+________________________________________
+📄 Dashboard 4 — Passenger & Route Analysis
+17. COVID Regional Impact
+Which region experienced the largest decline in passenger traffic during the COVID-19 period?
+18. Recovery Speed
+Which regions recovered to approximately their 2019 passenger-traffic levels first, and which regions took the longest?
+19. Load Factor
+How did regional passenger load factors change before, during, and after COVID-19?
+20. Top Global Routes
+Which routes carried the highest number of passengers during the analyzed period?
+21. Route Revenue
+Which global routes generated the highest estimated annual revenue?
+22. Route Economics
+Which routes combine high passenger volume with high average fares and therefore represent potentially attractive routes?
+________________________________________
+📄 Dashboard 5 — Aviation Safety
+23. Incident Trends
+How has the number of major aviation incidents in the dataset changed from 2010–2026?
+24. Fatalities
+Which years experienced the highest number of fatalities, and what major incidents contributed to those totals?
+25. Boeing vs Airbus Incidents
+How do the numbers of selected major incidents involving Boeing and Airbus aircraft compare?
+26. Incident Severity
+What proportion of the selected incidents were fatal crashes, fatal collisions, operational incidents, ground incidents, or geopolitical events?
+27. Geopolitical Risk
+How significant were geopolitical events within the selected aviation incidents?
+28. Aircraft Risk
+Which aircraft types were associated with the highest number of fatalities in the selected incidents?
+________________________________________
+⭐ 10 Most Important Questions for Your Final Presentation
+If an interviewer asks:
+"What business problems did you solve with this project?"
+Don't mention all 28 questions. Focus on these 10:
+1.	How did COVID-19 affect airline revenue and passenger demand globally? 
+2.	Which regions recovered fastest after the COVID-19 disruption? 
+3.	Which airlines demonstrated the strongest financial recovery? 
+4.	Which business model—legacy, low-cost, or hybrid—performed best? 
+5.	How did Boeing's 737 MAX crisis affect its aircraft orders compared with Airbus? 
+6.	How has Boeing's position compared with Airbus in aircraft orders, deliveries, and backlog? 
+7.	Is COMAC emerging as a meaningful competitor to Boeing and Airbus? 
+8.	Which global routes have the highest passenger volume and revenue potential? 
+9.	How has the frequency and severity of major aviation incidents changed over time in this selected dataset? 
+10.	What are the major strategic trends shaping the global aviation industry from 2010–2026?
 
