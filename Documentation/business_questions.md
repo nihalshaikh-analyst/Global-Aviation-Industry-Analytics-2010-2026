@@ -1,4 +1,4 @@
-# 🌍 Global Aviation Industry — Business Questions
+# Global Aviation Industry - Business Questions
 
 ## Business Questions
 
