@@ -58,7 +58,7 @@ The aviation industry has experienced significant transformation between **2010 
 
 <p align="center">
 
-<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20163959.png" alt="Airbus Aircraft" width="45%">
+<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20163959.png" alt="Airbus Aircraft" width="43%">
 <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20164217.png" alt="Boeing Aircraft" width="45%">
 
 </p>
