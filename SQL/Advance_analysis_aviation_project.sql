@@ -1,3 +1,4 @@
+```sql
 -------------------------------------------------------------
 -- Advanced SQL Analysis
 -------------------------------------------------------------
@@ -322,6 +323,7 @@ SELECT
 	AVG(SUM(revenue_usd_bn)) OVER(ORDER BY year ROWS BETWEEN 4 PRECEDING AND CURRENT ROW) moving_average
 FROM airline_financials
 GROUP BY year;
+```
 
 --------------------------------------------------------------------------------
 
