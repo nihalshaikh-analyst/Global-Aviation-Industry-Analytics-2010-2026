@@ -21,7 +21,7 @@
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The **Global Aviation Industry Analysis 2010–2026** is an end-to-end Data Analytics and Business Intelligence project that analyzes the global aviation industry using **PostgreSQL, SQL, Microsoft Excel, Power Query, Power BI, and DAX**.
 
@@ -387,7 +387,8 @@ Exploratory Data Analysis
         ↓
 Business Analysis
 ```
-
+<p align="center">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Schemas.png" alt="SQL Schemas" width="100%">
 ---
 
 # 📝 SQL Files
@@ -479,7 +480,13 @@ Excel was used for additional validation and exploratory analysis.
 ### File
 
 📄 `Global_Aviation_Analysis.xlsx`
+<p align="center">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Excel/Aviation_excel_dashboard.png" alt="Excel Aviation Dashboard" width="100%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Excel/Avition_analysis.png" alt="Aviation Analysis Excel" width="100%">
+</p>
 ### Activities Performed
 
 - Data validation
@@ -560,7 +567,9 @@ Route Performance
 
 Aviation Incidents
 ```
-
+<p align="center">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Data%20Model.png" alt="Power BI Data Model" width="100%">
+</p>
 ---
 
 # 🧮 Key DAX Measures
@@ -625,7 +634,7 @@ The Power BI dashboard contains **5 analytical pages**.
 # 📄 Page 1 — Executive Overview
 
 <p align="center">
-  <img src="screenshots/page1_executive_overview.png" alt="Executive Overview Dashboard" width="90%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Aviation%20Overview.png" alt="Executive Overview Dashboard" width="100%">
 </p>
 
 ### KPIs
@@ -650,7 +659,7 @@ The Power BI dashboard contains **5 analytical pages**.
 # 📄 Page 2 — Airline Performance
 
 <p align="center">
-  <img src="screenshots/page2_airline_performance.png" alt="Airline Performance Dashboard" width="90%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Airline%20Performance.png" alt="Airline Performance Dashboard" width="100%">
 </p>
 
 ### Analysis
@@ -667,7 +676,7 @@ The Power BI dashboard contains **5 analytical pages**.
 # 📄 Page 3 — Boeing vs Airbus vs COMAC
 
 <p align="center">
-  <img src="screenshots/page3_boeing_airbus.png" alt="Boeing Airbus COMAC Dashboard" width="90%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Boeing%20vs%20Airbus%20Analysis.png" alt="Boeing Airbus COMAC Dashboard" width="100%">
 </p>
 
 ### Analysis
@@ -684,7 +693,7 @@ The Power BI dashboard contains **5 analytical pages**.
 # 📄 Page 4 — Passenger & Route Analysis
 
 <p align="center">
-  <img src="screenshots/page4_passenger_routes.png" alt="Passenger and Route Dashboard" width="90%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Passenger%20%26%20Route%20Analysis.png" alt="Passenger and Route Dashboard" width="100%">
 </p>
 
 ### Analysis
@@ -702,7 +711,7 @@ The Power BI dashboard contains **5 analytical pages**.
 # 📄 Page 5 — Aviation Safety
 
 <p align="center">
-  <img src="screenshots/page5_aviation_safety.png" alt="Aviation Safety Dashboard" width="90%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Aviation%20Safety.png" alt="Aviation Safety Dashboard" width="90%">
 </p>
 
 ### Analysis
@@ -934,7 +943,7 @@ Airlines should improve:
 
 ---
 
-## 6️⃣ Monitor COMAC
+## Monitor COMAC
 
 Aircraft manufacturers and airlines should closely monitor:
 
@@ -945,7 +954,7 @@ Aircraft manufacturers and airlines should closely monitor:
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
 | Area | Key Finding |
 |---|---|
@@ -960,7 +969,7 @@ Aircraft manufacturers and airlines should closely monitor:
 
 ---
 
-# ⚠️ Dataset Limitations
+# Dataset Limitations
 
 This project combines public reference data with modeled and interpolated values.
 
@@ -978,7 +987,11 @@ Therefore, results should be considered analytical estimates.
 
 ---
 
-# 🏆 Project Conclusion
+# Project Conclusion
+The Global Aviation Industry Analysis 2010–2026 project demonstrates an end-to-end data analytics workflow using PostgreSQL, SQL, Excel, Power Query, Power BI and DAX. The analysis examined airline financial performance, passenger demand, aircraft manufacturer competition, route economics and major aviation incidents.
+The results highlight the significant impact of COVID-19, the competitive consequences of the Boeing 737 MAX crisis, Airbus's strong narrowbody position, the emergence of COMAC, and the growing strategic importance of Middle Eastern aviation hubs.
+The project demonstrates how multiple datasets can be integrated into a single analytical model and transformed into interactive dashboards and actionable business insights.
+
 
 The **Global Aviation Industry Analysis 2010–2026** project demonstrates a complete end-to-end Data Analytics workflow.
 
@@ -1046,7 +1059,7 @@ Data Storytelling
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## Nihal Shaikh
 
@@ -1058,9 +1071,9 @@ Data Storytelling
 
 ---
 
-# ⭐ Support
+#  Support
 
-If you found this project interesting or useful, consider giving the repository a ⭐!
+If you found this project interesting or useful, consider giving the repository !
 
 ---
 
