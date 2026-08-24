@@ -47,7 +47,7 @@ The main objective of this project is to transform raw aviation datasets into a 
 # 🖼️ Aviation Industry
 
 <p align="center">
-  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20162848.png" alt="Aviation Industry" width="80%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20162848.png" alt="Aviation Industry" width="50%">
 </p>
 
 The aviation industry has experienced significant transformation between **2010 and 2026**, including rapid passenger growth, aircraft manufacturing competition, the COVID-19 crisis, geopolitical events, and the emergence of new manufacturers.
@@ -58,8 +58,8 @@ The aviation industry has experienced significant transformation between **2010 
 
 <p align="center">
 
-<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20163959.png" alt="Airbus Aircraft" width="100%">
-<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20164217.png" alt="Boeing Aircraft" width="100%">
+<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20163959.png" alt="Airbus Aircraft" width="45%">
+<img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20164217.png" alt="Boeing Aircraft" width="45%">
 
 </p>
 
