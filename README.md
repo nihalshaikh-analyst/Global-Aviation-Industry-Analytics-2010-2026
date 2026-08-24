@@ -4,7 +4,7 @@
 # ✈️ Global Aviation Industry Analysis | 2010–2026
 
 <p align="center">
-  <img src="screenshots/aviation_banner.png" alt="Global Aviation Industry Analysis" width="100%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20163354.png" alt="Global Aviation Industry Analysis" width="100%">
 </p>
 
 <p align="center">
