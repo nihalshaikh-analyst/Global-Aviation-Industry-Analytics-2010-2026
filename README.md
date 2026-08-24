@@ -191,7 +191,11 @@ The main objectives of this project are:
 #  Dataset Information
 
 The project contains **5 datasets**.
-
+[Airline Financials](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Data/airline_financials.csv)
+[Fleet Order](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Data/fleet_orders.csv)
+[Passenger Traffic](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Data/passenger_traffic.csv)
+[Route Performance](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Data/route_performance.csv)
+[Aviation Incidents](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Data/aviation_incidents.csv)
 | Dataset | Rows | Description |
 |---|---:|---|
 | `airline_financials.csv` | 497 | Airline financial and operational performance |
@@ -241,21 +245,20 @@ Global-Aviation-Industry-Analysis/
 │   └── Power_Query_Transformation.md
 │
 ├── powerbi/
-│   └── Global_Aviation_Dashboard.pbix
-│
-├── screenshots/
-│   ├── aviation_banner.png
-│   ├── aviation_industry.jpg
-│   ├── boeing.jpg
-│   ├── airbus.jpg
+│   ├──Global_Aviation_Dashboard.pbix
 │   ├── data_model.png
 │   ├── page1_executive_overview.png
 │   ├── page2_airline_performance.png
 │   ├── page3_boeing_airbus.png
 │   ├── page4_passenger_routes.png
 │   └── page5_aviation_safety.png
+│  
 │
 └── documentation/
+    ├── aviation_banner.png
+│   ├── aviation_industry.jpg
+│   ├── boeing.jpg
+│   ├── airbus.jpg
     ├── data_dictionary.md
     ├── business_questions.md
     ├── business_insights.md
@@ -268,7 +271,6 @@ Global-Aviation-Industry-Analysis/
 
 ## 1. Airline Financials
 
-**File:** `airline_financials.csv`
 
 | Column | Description |
 |---|---|
@@ -289,7 +291,6 @@ Global-Aviation-Industry-Analysis/
 
 ## 2. Fleet Orders
 
-**File:** `fleet_orders.csv`
 
 | Column | Description |
 |---|---|
@@ -308,7 +309,6 @@ Global-Aviation-Industry-Analysis/
 
 ## 3. Passenger Traffic
 
-**File:** `passenger_traffic.csv`
 
 | Column | Description |
 |---|---|
@@ -324,7 +324,6 @@ Global-Aviation-Industry-Analysis/
 
 ## 4. Route Performance
 
-**File:** `route_performance.csv`
 
 | Column | Description |
 |---|---|
@@ -344,7 +343,6 @@ Global-Aviation-Industry-Analysis/
 
 ## 5. Aviation Incidents
 
-**File:** `aviation_incidents.csv`
 
 | Column | Description |
 |---|---|
@@ -397,7 +395,7 @@ The SQL analysis is organized into multiple files.
 
 ## 01 — Create Tables
 
-📄 `01_create_tables.sql`
+[Database & Tables](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Database_%26_tables_aviation_project.sql)
 
 This file contains:
 
@@ -410,7 +408,7 @@ This file contains:
 
 ## 02 — Data Cleaning
 
-📄 `02_data_cleaning.sql`
+[Data Cleaning](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Data_cleaning_aviation_project.sql)
 
 Tasks performed:
 
@@ -420,15 +418,7 @@ Tasks performed:
 - Standardizing text
 - Validating numeric values
 - Checking inconsistent values
-
----
-
-## 03 — Data Validation
-
-📄 `03_data_validation.sql`
-
-Validation includes:
-
+- Validation includes:
 ```text
 Row Count
 NULL Values
@@ -443,7 +433,7 @@ Data Consistency
 
 ## 04 — Exploratory Data Analysis
 
-📄 `04_eda.sql`
+[EDA](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/EDA_aviation_project.sql)
 
 EDA was performed to understand:
 
@@ -458,10 +448,11 @@ EDA was performed to understand:
 
 ## 05 — Business Analysis
 
-📄 `05_business_analysis.sql`
+[Advance Analysis](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Advance_analysis_aviation_project.sql)
 
 This file answers key business questions using:
 
+[Business Deep Analysis](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Business_Deep_Analysis_aviation_project.sql)
 - Aggregations
 - GROUP BY
 - HAVING
@@ -478,8 +469,8 @@ This file answers key business questions using:
 Excel was used for additional validation and exploratory analysis.
 
 ### File
+[Excel Dashboard](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Excel/Global_Aviation_Analysis.xlsx)
 
-📄 `Global_Aviation_Analysis.xlsx`
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Excel/Aviation_excel_dashboard.png" alt="Excel Aviation Dashboard" width="100%">
 </p>
@@ -624,7 +615,7 @@ SUM('Aviation Incidents'[fatalities])
 ---
 
 #  Power BI Dashboard
-
+[Global Aviation Dashboard](https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Global_aviation_analysis.pbix)
 The Power BI dashboard contains **5 analytical pages**.
 
 ---
@@ -872,6 +863,9 @@ The analysis highlights:
 - Airbus-related incidents
 
 ---
+**"The analysis demonstrates that the global aviation industry experienced three major structural disruptions: the COVID-19 demand collapse, the Boeing 737 MAX crisis, and subsequent supply-chain and geopolitical challenges. COVID-19 created significant regional differences in recovery, with the Middle East recovering earlier while Asia Pacific experienced a prolonged recovery. Airbus strengthened its narrowbody competitive position during Boeing's MAX-related disruption, while COMAC's C919 emerged as a growing competitor in China's domestic market.
+The analysis also shows that airline performance depends on more than revenue scale. Business model, load factor, passenger volume, fleet size, route economics and regional exposure all influence financial performance. For investors and aviation companies, monitoring aircraft orders, backlog, passenger recovery, route economics and regional growth provides a more complete view of the industry's future."**
+
 
 #  Business Recommendations
 
@@ -986,9 +980,9 @@ Therefore, results should be considered analytical estimates.
 ---
 
 # Project Conclusion
-The Global Aviation Industry Analysis 2010–2026 project demonstrates an end-to-end data analytics workflow using PostgreSQL, SQL, Excel, Power Query, Power BI and DAX. The analysis examined airline financial performance, passenger demand, aircraft manufacturer competition, route economics and major aviation incidents.
+**The Global Aviation Industry Analysis 2010–2026 project demonstrates an end-to-end data analytics workflow using PostgreSQL, SQL, Excel, Power Query, Power BI and DAX. The analysis examined airline financial performance, passenger demand, aircraft manufacturer competition, route economics and major aviation incidents.
 The results highlight the significant impact of COVID-19, the competitive consequences of the Boeing 737 MAX crisis, Airbus's strong narrowbody position, the emergence of COMAC, and the growing strategic importance of Middle Eastern aviation hubs.
-The project demonstrates how multiple datasets can be integrated into a single analytical model and transformed into interactive dashboards and actionable business insights.
+The project demonstrates how multiple datasets can be integrated into a single analytical model and transformed into interactive dashboards and actionable business insights.**
 
 
 The **Global Aviation Industry Analysis 2010–2026** project demonstrates a complete end-to-end Data Analytics workflow.
@@ -1061,6 +1055,7 @@ Data Storytelling
 
 ## Nihal Shaikh
 nihalshaikh.analyst@gmail.com
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nihalshaikh1/)
 
 ### Skills
@@ -1073,7 +1068,7 @@ nihalshaikh.analyst@gmail.com
 
 Feel free to connect with me and explore my other data analytics projects.
 
-**Thank you for visiting this project! **                     ▼
+**Thank you for visiting this project! **                     
                
 
 
