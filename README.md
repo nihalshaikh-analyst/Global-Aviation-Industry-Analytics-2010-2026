@@ -866,7 +866,7 @@ The analysis highlights:
 **"The analysis demonstrates that the global aviation industry experienced three major structural disruptions: the COVID-19 demand collapse, the Boeing 737 MAX crisis, and subsequent supply-chain and geopolitical challenges. COVID-19 created significant regional differences in recovery, with the Middle East recovering earlier while Asia Pacific experienced a prolonged recovery. Airbus strengthened its narrowbody competitive position during Boeing's MAX-related disruption, while COMAC's C919 emerged as a growing competitor in China's domestic market.
 The analysis also shows that airline performance depends on more than revenue scale. Business model, load factor, passenger volume, fleet size, route economics and regional exposure all influence financial performance. For investors and aviation companies, monitoring aircraft orders, backlog, passenger recovery, route economics and regional growth provides a more complete view of the industry's future."**
 <p align="center">
-  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20162721.png" alt="Insights" width="100%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20162721.png" alt="Insights" width="50%">
 </p>
 
 #  Business Recommendations
