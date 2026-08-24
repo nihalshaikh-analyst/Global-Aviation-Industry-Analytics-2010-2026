@@ -27,24 +27,24 @@ The **Global Aviation Industry Analysis 2010–2026** is an end-to-end Data Anal
 
 The project examines more than **2,000 aviation records** covering:
 
-- ✈️ 30 major global airlines
-- 📅 17 years of industry data
-- 🛩️ Boeing, Airbus, COMAC, and Embraer aircraft data
-- 🌍 Regional passenger traffic
-- 🛣️ 40 major global aviation routes
-- 🚨 40 major aviation incidents
-- 🦠 COVID-19 aviation impact
-- 🛫 Boeing 737 MAX crisis
-- 📈 Airbus market growth
-- 🇨🇳 COMAC C919 emergence
-- 🇸🇦 Saudi aviation expansion
-- 🌎 Global aviation recovery
+-  30 major global airlines
+-  17 years of industry data
+-  Boeing, Airbus, COMAC, and Embraer aircraft data
+-  Regional passenger traffic
+-  40 major global aviation routes
+-  40 major aviation incidents
+-  COVID-19 aviation impact
+-  Boeing 737 MAX crisis
+-  Airbus market growth
+-  COMAC C919 emergence
+-  Saudi aviation expansion
+-  Global aviation recovery
 
 The main objective of this project is to transform raw aviation datasets into a complete analytical solution and generate meaningful business insights.
 
 ---
 
-# 🖼️ Aviation Industry
+#  Aviation Industry
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Documentation/Screenshot%202026-08-24%20162848.png" alt="Aviation Industry" width="50%">
@@ -54,7 +54,7 @@ The aviation industry has experienced significant transformation between **2010 
 
 ---
 
-# 🛩️ Boeing vs Airbus
+#  Boeing vs Airbus
 
 <p align="center">
 
@@ -76,7 +76,7 @@ The project compares major aircraft manufacturers based on:
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objectives of this project are:
 
@@ -98,21 +98,21 @@ The main objectives of this project are:
 
 ---
 
-# 🧰 Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
-| 🐘 PostgreSQL | Database management and data storage |
-| 📝 SQL | Data cleaning, validation and analysis |
-| 📗 Microsoft Excel | Data validation and exploratory analysis |
-| 🔄 Power Query | Data transformation |
-| 📊 Power BI | Dashboard and visualization |
-| 🧮 DAX | KPI and business calculations |
-| 🐙 GitHub | Project documentation and portfolio |
+|  PostgreSQL | Database management and data storage |
+|  SQL | Data cleaning, validation and analysis |
+|  Microsoft Excel | Data validation and exploratory analysis |
+|  Power Query | Data transformation |
+|  Power BI | Dashboard and visualization |
+|  DAX | KPI and business calculations |
+|  GitHub | Project documentation and portfolio |
 
 ---
 
-# 🔄 Complete Project Workflow
+#  Complete Project Workflow
 
 ```text
                     ┌─────────────────┐
@@ -188,7 +188,7 @@ The main objectives of this project are:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The project contains **5 datasets**.
 
@@ -213,7 +213,7 @@ Major Incidents: 40
 
 ---
 
-# 📁 Project Folder Structure
+#  Project Folder Structure
 
 ```text
 Global-Aviation-Industry-Analysis/
@@ -264,9 +264,9 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-# 📖 Data Dictionary
+#  Data Dictionary
 
-## 1️⃣ Airline Financials
+## 1. Airline Financials
 
 **File:** `airline_financials.csv`
 
@@ -287,7 +287,7 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-## 2️⃣ Fleet Orders
+## 2. Fleet Orders
 
 **File:** `fleet_orders.csv`
 
@@ -306,7 +306,7 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-## 3️⃣ Passenger Traffic
+## 3. Passenger Traffic
 
 **File:** `passenger_traffic.csv`
 
@@ -322,7 +322,7 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-## 4️⃣ Route Performance
+## 4. Route Performance
 
 **File:** `route_performance.csv`
 
@@ -342,7 +342,7 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-## 5️⃣ Aviation Incidents
+## 5. Aviation Incidents
 
 **File:** `aviation_incidents.csv`
 
@@ -366,7 +366,7 @@ Global-Aviation-Industry-Analysis/
 
 ---
 
-# 🗄️ PostgreSQL Database
+#  PostgreSQL Database
 
 PostgreSQL was used as the central database for storing and analyzing the aviation datasets.
 
@@ -391,7 +391,7 @@ Business Analysis
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/SQL/Schemas.png" alt="SQL Schemas" width="100%">
 ---
 
-# 📝 SQL Files
+#  SQL Files
 
 The SQL analysis is organized into multiple files.
 
@@ -473,7 +473,7 @@ This file answers key business questions using:
 
 ---
 
-# 📗 Microsoft Excel Analysis
+#  Microsoft Excel Analysis
 
 Excel was used for additional validation and exploratory analysis.
 
@@ -501,7 +501,7 @@ Excel was used for additional validation and exploratory analysis.
 
 ---
 
-# 🔄 Power Query Transformation
+#  Power Query Transformation
 
 Power Query was used to prepare the data before building the Power BI dashboard.
 
@@ -529,7 +529,7 @@ Close & Apply
 
 ---
 
-# 🧠 Power BI Data Model
+#  Power BI Data Model
 
 A **Dim Date** table was created for time-based analysis.
 
@@ -542,7 +542,7 @@ One-to-Many Relationship
 ### Data Model
 
 <p align="center">
-  <img src="screenshots/data_model.png" alt="Power BI Data Model" width="80%">
+  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Data%20Model.png" alt="Power BI Data Model" width="100%">
 </p>
 
 ### Relationship Structure
@@ -567,12 +567,10 @@ Route Performance
 
 Aviation Incidents
 ```
-<p align="center">
-  <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Data%20Model.png" alt="Power BI Data Model" width="100%">
-</p>
+
 ---
 
-# 🧮 Key DAX Measures
+#  Key DAX Measures
 
 ## Total Revenue
 
@@ -625,13 +623,13 @@ SUM('Aviation Incidents'[fatalities])
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 📄 Page 1 — Executive Overview
+#  Page 1 — Executive Overview
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Aviation%20Overview.png" alt="Executive Overview Dashboard" width="100%">
@@ -656,7 +654,7 @@ The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 📄 Page 2 — Airline Performance
+#  Page 2 — Airline Performance
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Airline%20Performance.png" alt="Airline Performance Dashboard" width="100%">
@@ -673,7 +671,7 @@ The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 📄 Page 3 — Boeing vs Airbus vs COMAC
+#  Page 3 — Boeing vs Airbus vs COMAC
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Boeing%20vs%20Airbus%20Analysis.png" alt="Boeing Airbus COMAC Dashboard" width="100%">
@@ -690,7 +688,7 @@ The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 📄 Page 4 — Passenger & Route Analysis
+#  Page 4 — Passenger & Route Analysis
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Passenger%20%26%20Route%20Analysis.png" alt="Passenger and Route Dashboard" width="100%">
@@ -708,7 +706,7 @@ The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 📄 Page 5 — Aviation Safety
+#  Page 5 — Aviation Safety
 
 <p align="center">
   <img src="https://github.com/nihalshaikh-analyst/Global-Aviation-Industry-Analytics-2010-2026/blob/main/Power%20BI/Aviation%20Safety.png" alt="Aviation Safety Dashboard" width="90%">
@@ -727,7 +725,7 @@ The Power BI dashboard contains **5 analytical pages**.
 
 ---
 
-# 💼 Business Questions
+#  Business Questions
 
 The project answers the following questions:
 
@@ -754,9 +752,9 @@ The project answers the following questions:
 
 ---
 
-# 🔍 Business Insights
+#  Business Insights
 
-## 🦠 1. COVID-19 Had a Massive Impact on Aviation
+##  1. COVID-19 Had a Massive Impact on Aviation
 
 COVID-19 caused a major decline in:
 
@@ -770,7 +768,7 @@ The aviation industry experienced its largest disruption during 2020.
 
 ---
 
-## 🌍 2. Recovery Was Different Across Regions
+##  2. Recovery Was Different Across Regions
 
 Recovery was not uniform.
 
@@ -785,7 +783,7 @@ The Middle East showed strong recovery due to global hub connectivity and intern
 
 ---
 
-## 🛫 3. Boeing Faced Major Pressure
+##  3. Boeing Faced Major Pressure
 
 The Boeing 737 MAX crisis and later production challenges affected:
 
@@ -798,7 +796,7 @@ Airbus gained significant momentum in the narrowbody aircraft market.
 
 ---
 
-## 🛩️ 4. Airbus Strengthened Its Position
+##  4. Airbus Strengthened Its Position
 
 Airbus demonstrated strong order momentum, particularly in the A320 family.
 
@@ -810,7 +808,7 @@ The analysis shows Airbus benefiting from:
 
 ---
 
-## 🇨🇳 5. COMAC Is an Emerging Competitor
+##  5. COMAC Is an Emerging Competitor
 
 COMAC's C919 program shows increasing aircraft orders and deliveries.
 
@@ -818,7 +816,7 @@ The strongest growth opportunity currently exists in the Chinese domestic aviati
 
 ---
 
-## 🇸🇦 6. Middle East Aviation Is Growing
+##  6. Middle East Aviation Is Growing
 
 Airlines such as:
 
@@ -833,7 +831,7 @@ Saudi Arabia's aviation strategy could significantly reshape regional competitio
 
 ---
 
-## 🛣️ 7. High Passenger Volume Does Not Always Mean High Revenue
+##  7. High Passenger Volume Does Not Always Mean High Revenue
 
 Route analysis shows that:
 
@@ -845,7 +843,7 @@ Average fare and route distance also influence route revenue.
 
 ---
 
-## 📈 8. Low-Cost Airlines Can Maintain Strong Margins
+##  8. Low-Cost Airlines Can Maintain Strong Margins
 
 Business model analysis helps compare:
 
@@ -861,7 +859,7 @@ Low-cost carriers can benefit from lower operating costs and efficient fleet uti
 
 ---
 
-## 🚨 9. Aviation Safety and Major Incidents
+##  9. Aviation Safety and Major Incidents
 
 The dataset tracks selected major aviation incidents between 2010 and 2026.
 
@@ -875,9 +873,9 @@ The analysis highlights:
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
-## 1️⃣ Monitor Boeing Recovery
+## 1. Monitor Boeing Recovery
 
 Boeing should focus on:
 
@@ -888,7 +886,7 @@ Boeing should focus on:
 
 ---
 
-## 2️⃣ Airbus Should Maintain Production Capacity
+## 2. Airbus Should Maintain Production Capacity
 
 Airbus can strengthen its market position by:
 
@@ -899,7 +897,7 @@ Airbus can strengthen its market position by:
 
 ---
 
-## 3️⃣ Airlines Should Focus on Profitable Routes
+## 3. Airlines Should Focus on Profitable Routes
 
 Airlines should evaluate routes based on:
 
@@ -919,7 +917,7 @@ instead of passenger volume alone.
 
 ---
 
-## 4️⃣ Focus on High-Growth Markets
+## 4. Focus on High-Growth Markets
 
 Long-term aviation growth opportunities exist in:
 
@@ -931,7 +929,7 @@ Long-term aviation growth opportunities exist in:
 
 ---
 
-## 5️⃣ Improve Resilience Against Future Crises
+## 5. Improve Resilience Against Future Crises
 
 Airlines should improve:
 
@@ -1062,8 +1060,8 @@ Data Storytelling
 # Author
 
 ## Nihal Shaikh
-
-**Aspiring Data Analyst**
+nihalshaikh.analyst@gmail.com
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nihalshaikh1/)
 
 ### Skills
 
@@ -1071,18 +1069,12 @@ Data Storytelling
 
 ---
 
-#  Support
-
-If you found this project interesting or useful, consider giving the repository !
-
----
-
-## 📬 Connect With Me
+##  Connect With Me
 
 Feel free to connect with me and explore my other data analytics projects.
 
-**Thank you for visiting this project! ✈️📊**                     ▼
-                  Business Insights
+**Thank you for visiting this project! **                     ▼
+               
 
 
 
